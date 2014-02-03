@@ -1,0 +1,224 @@
+body {
+  background-color: #FCFCFC;
+  color: #333;
+  line-height: 1.5;
+  margin: 1.5em 5% 0;
+  font-family: "Georgia", serif;
+}
+
+#main {
+  width: 65.71%; /* 23 / 35 */
+  float: left;
+}
+
+#secondary {
+  width: 31.43%; /* 11 / 35 */
+  float: right;
+}
+
+h1, h2, #title {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  letter-spacing: -0.07em;
+}
+
+#title {
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1;
+  margin-bottom: 0.5em;
+}
+
+#title a:link, #title a:visited {
+  color: #333;
+  text-decoration: none;
+}
+
+#title a:focus, #title a:hover, #title a:active {
+  text-decoration: underline;
+}
+
+#footer {
+  color: #999;
+  padding-top: 1.5em;
+  text-align: center;
+  clear: both;
+}
+
+#footer a {
+  color: #66C;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.25em;
+  padding: 0.15em 0;
+  margin-top: 1.8em;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+body.event h1, body.page h1, #news h2, #secondary h2 {
+  margin-top: 0;
+}
+
+p, form, ul, ol {
+  margin-bottom: 1.5em;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+a:link, a:visited, a:focus, a:hover, a:active, button {
+  color: #009;
+}
+
+del {
+  text-decoration: line-through;
+  color: #999;
+}
+
+ins {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+ul li {
+  list-style-type: disc;
+}
+
+ol li {
+  list-style-type: decimal;
+}
+
+li li {
+    margin-left: 1.5em;
+}
+
+p.callout {
+  font-size: 1.5em;
+  line-height: 1;
+  margin-top: 1em;
+  background-color: #CCC;
+  color: #900;
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  text-align: center;
+  font-variant: small-caps;
+  padding: 0.5em 1em;
+}
+
+p.callout a {
+  color: #900;
+}
+
+p.callout span {
+    white-space: nowrap;
+}
+
+.event-info {
+    float: left;
+}
+
+body.event p {
+    clear: both;
+}
+
+.sponsor {
+    font-size: 0.75em;
+    line-height: 2;
+    color: #999;
+    float: right;
+    width: 47.83%; /* 11 / 23 */
+    margin-bottom: 1.5em;
+}
+
+.sponsor img {
+    display: block;
+    max-width: 100%;
+    max-height: 6em;
+}
+
+input, button {
+  font-size: 1em;
+  font-family: Georgia, serif;
+}
+
+.error {
+  color: #900;
+}
+
+input {
+  background-color: transparent;
+  border: none;
+  border-bottom: solid #999 2px;
+}
+
+button {
+  background-color: #CCF;
+  border: solid #99C 1px;
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+}
+
+small {
+  font-size: 0.75em;
+  line-height: 2;
+  color: #999;
+}
+
+body.event a.lanyrd {
+    display: block;
+    padding: 0.5em 0 0.5em 40px;
+    background-image: url(../img/lanyrd-32x32.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+
+.related {
+    margin: 0 -1em;
+    overflow: hidden;
+}
+
+.related li {
+  list-style-type: none;
+}
+
+.related li.previous {
+    float: left;
+}
+
+.related li.previous:before {
+    content: '« ';
+    width: 1em;
+    float: left;
+    text-align: left;
+}
+
+.related li.next:before {
+    content: ' »';
+    text-align: right;
+    float: right;
+    width: 1em;
+}
+
+.related li.next {
+    float: right;
+}
+
+#secondary ol li {
+  list-style-type: none;
+}
