@@ -1,0 +1,9 @@
+---
+title: CGN18
+layout: event
+lanyrd: http://lanyrd.com/2012/cgn18/
+---
+
+CGN18 is now confirmed for **Tuesday** 21st August in our usual venue, the Cambridge Union. Arrive from 7pm for drinks, with talks starting at 7:30.
+
+**Beyond a Geek Manifesto**: Cambridge MP [Julian Huppert](http://www.julianhuppert.org.uk/), [Geek Manifesto](http://geekmanifesto.wordpress.com/) author Mark Henderson and [speaker to be announced] talk about science/tech engagement in the policy/political world, and what can be done about it
