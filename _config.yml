@@ -1,5 +1,4 @@
 name: Cambridge Geek Nights
 markdown: redcarpet
-pygments: true
 
 permalink: "/event/:title"
