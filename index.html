@@ -5,7 +5,8 @@ is_homepage: true
 
 <div id="main">
   <div id="news">
-    {{ news.html }}
+    {% capture news_content %}{% include news.markdown %}{% endcapture %}
+    {{ news_content | markdownify }}
   </div>
 
   <div id="about">
