@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}Cambridge Geek Nights</title>
+    <title>{{ site.name }}</title>
     {% include meta-styles.html %}
     {% include analytics.html %}
   </head>
   <body>
-    <h1 id="title">Cambridge Geek Nights</h1>
+    <h1 id="title">{{ site.name }}</h1>
     
     {{ content }}
     
