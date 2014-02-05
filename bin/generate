@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+
+import json
+
+
+cgn_data = cgn_data = json.load(open('dump-2014-02-03.json'))
+events = events = [e for e in cgn_data if e['model'] == 'geeknights.geeknight']
+event_pages = [e for e in cgn_data if e['model'] == 'geeknights.eventpage']
+event_pages_by_id = {ep["fields"]["event"]: ep["fields"] for ep in event_pages}
+
+for event in events:
+    fields = event["fields"]
+    filename = "_posts/%s-%s.markdown" % (fields["date"], fields["slug"])
+    event_page = event_pages_by_id[event["pk"]]
+    print filename
+    with open(filename, mode='w') as event_file:
+        event_file.write("---\n")
+        event_file.write("title: %s\n" % fields["name"])
+        event_file.write("layout: event\n")
+        if fields["lanyrd_url"]:
+            event_file.write("lanyrd: %s\n" % fields["lanyrd_url"])
+        event_file.write("---\n\n")
+        event_file.write(event_page["text"].encode("utf8").replace("\r\n", "\n"))
+        if not event_page["text"].endswith("\n"):
+            event_file.write("\n")
