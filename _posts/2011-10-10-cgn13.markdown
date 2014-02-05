@@ -1,0 +1,18 @@
+---
+title: CGN13
+layout: event
+lanyrd: http://lanyrd.com/2011/cgn13/
+---
+
+CGN13 took place on Monday 10th October at our regular venue, the [Cambridge Union](/cambridge-union-venue-page) with talks starting at 7:30pm. The event was sponsored by [Studio 24](http://www.studio24.net).
+
+Our first speaker was [Bill Thompson](http://www.twitter.com/billt), who spoke about "Being [@bbcbillt](http://www.twitter.com/bbcbillt)".
+After more than a decade as a freelance writer, broadcaster and pundit Cambridge geek Bill Thompson took a real job in the archive development team at the BBC. For the last two years he's been been part of a small group looking at what the BBC can do with its amazing archive of TV and radio programmes, photos, documents, sheet music and small spinning globes (the old BBC One station id that some of you may remember).  After a few drinks he'll tell you his job is about 'giving the Enlightenment another Five Hundred Years', but he's promised to be sober for tonight's talk about the archive and why it's vital to ensure that our digital culture offers access to the analogue material that has survived so far.
+
+Our second speaker was [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/), who will be talking about his work with the [Computing at School Working Group](http://www.computingatschool.org.uk/) tackling the ICT education crisis in UK schools, putting the excitement and rigour of computing science back into the school curriculum and showing young people that there is more to computing than Word and PowerPoint.
+
+We also had lightning talks from:
+
+* Our sponsors, [Studio 24](http://www.studio24.net)
+* Tom Playford giving an introduction to Django.
+* [Mark Cheverton](http://polis.ecafe.org/) entitled "Small pieces, loosely joined: An example of processing real-time data".

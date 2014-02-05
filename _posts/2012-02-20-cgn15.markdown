@@ -1,0 +1,13 @@
+---
+title: CGN15
+layout: event
+lanyrd: http://lanyrd.com/2012/cgn15/
+---
+
+CGN15 is confirmed for Monday 20th February at our regular venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:45.
+
+Our first speaker will be Chris Crowe, talking about “Discovering the early universe with supercomputers”.  He is an Astrophysicist at the Institute of Astronomy working on the ESA Planck Satellite, building models of the universe to test with data.
+
+Also speaking will be [Gareth Rushgrove](http://www.morethanseven.net/), who works as an in-house developer and server wrangler for the new [Government Digital Service](http://digital.cabinetoffice.gov.uk/). He will be discussing his experiences with agile development with a talk titled “What worked and what we would change about how we built [GOV.UK](http://gov.uk)”.
+
+We will also have a lighting talk from Laura Newman and Peter Murray-Rust on open science and the Panton Fellowship.

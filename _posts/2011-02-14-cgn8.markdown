@@ -1,0 +1,13 @@
+---
+title: CGN8
+layout: event
+lanyrd: http://lanyrd.com/2011/cambridge-geek-night-8/
+---
+
+CGN 8 will be 14th Feb 2011, once again at the Cambridge Union from 7 o'clock.
+Our two speakers are:
+
+* Rufus Pollock from the Open Knowledge Foundation will be speaking about "Digging into data with [CKAN](http://ckan.net) and datapkg"
+* John Souter will speak about the [London Internet Exchange](https://linx.net)
+
+Both sets of slides are available on the [Lanyrd event page](http://lanyrd.com/2011/cambridge-geek-night-8/).

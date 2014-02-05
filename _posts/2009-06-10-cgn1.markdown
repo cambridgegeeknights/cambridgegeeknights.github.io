@@ -1,0 +1,6 @@
+---
+title: CGN1
+layout: event
+---
+
+Our first Cambridge Geek Night will be held at [The Maypole](http://maps.google.co.uk/maps?q=CB5+8AF&hl=en&ie=UTF8&z=16) on 10 June 2009. 

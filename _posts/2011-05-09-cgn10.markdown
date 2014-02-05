@@ -1,0 +1,17 @@
+---
+title: CGN10
+layout: event
+lanyrd: http://lanyrd.com/2011/cambridge-geek-night-10/
+---
+
+CGN10 is now confirmed for May 9th 2011, 7pm at the Cambridge Union.
+
+Our main speaker is David Buxton from [Arachnys](http://www.arachnys.com), with a talk titled "Google App Engine - Experiences from the trenches".
+There will be a response to this talk at <a href="/events/cgn11">CGN11</a> by Michael Brunton-Spall.
+
+**Update**:
+After the talks a few people stayed behind to discuss the future of Cambridge Geek Nights. A lightning talk will explain the conclusions at CGN11, but in summary:
+
+* Events should be every 2 months
+* Two main talks of 15-20 mins plus questions, and a few lightning talks is about right
+* Talks will be kept to their timings in future, including sponsor talks

@@ -1,0 +1,13 @@
+---
+title: CGN7
+layout: event
+lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-7/
+---
+
+The 7th Cambridge Geek Night will be held on
+  <span class=`date`>Monday 13th December</span>, once again at the
+  <a href=`http://www.cus.org`>Cambridge Union</a> from 7 o&rsquo;clock.
+
+Our speakers will be <a href=`http://www.brunton-spall.co.uk/`>Michael Brunton-Spall</a> giving an introduction to Git, and Artur Ortega giving us an insight to accessibility by showing a screen reader demonstration.
+
+Our generous drinks sponsor will be [Pepsmedia](http://www.pepsmedia.com).

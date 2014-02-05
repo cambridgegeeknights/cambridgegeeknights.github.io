@@ -1,0 +1,13 @@
+---
+title: CGN9
+layout: event
+lanyrd: http://lanyrd.com/2011/cambridge-geek-night-9/
+---
+
+Cambridge Geek Night 9 will be held at the Cambridge Union from 7 o'clock on Monday 28th March, sponsored by <a href=`http://www.freeagentcentral.com/`>FreeAgent</a>.
+
+* Craig Mills will speak about "Mapping National Parks"
+* Gareth Rushgrove (whilst also representing FreeAgent our sponsor) will talk on "Web monitoring and Metrics with Ganglia and Friends"
+
+Both sets of [slides](http://lanyrd.com/2011/cambridge-geek-night-9/slides/) are now available.
+

@@ -1,0 +1,16 @@
+---
+title: CGN5
+layout: event
+lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-5/
+---
+
+<p>The next Cambridge Geek Night is now confirmed&mdash;apologies for the
+  short notice&mdash;for <span class=`date`>Tuesday 28th September</span>.
+  Like last time, it&rsquo;ll be at the <a href=`http://www.cus.org`>Cambridge
+  Union</a> from 7 o&rsquo;clock, with talks kicking off at 7:30.  Our drinks sponsor is <a href="http://www.red-gate.com">Red Gate Software</a>.
+</p>
+* This month, <a href=`http://www.yes-no-cancel.co.uk/`>Martin Kleppmann</a>, fresh off a plane from San Francisco, will be talking about <a href="http://rapportive.com">Rapportive</a>, the browser add-on that tries to make your email inbox a better place.
+* <a href=`http://www.thatcanadiangirl.co.uk/`>Vero Pepperrell</a> will tell the story of <a href="http://alfredapp.com">Alfred</a>, a Mac productivity app launched in March, sharing some observations on how the community has grown & how you might apply this to your own project or app.
+* Lisa Evans from the <a href="http://www.okfn.org">Open Knowledge Foundation</a> will be talking about "<a href=`http://www.wheredoesmymoneygo.org/`>Where Does My Money Go?</a>”, and on using technology to visualise and explore Government data.
+
+We’ll also have a couple of lightning talks from ideaSpace, a new coworking space in Cambridge University’s Hauser Forum, as well as this month’s generous sponsors from Red Gate, who will be speaking about the current employment opportunities within the company.

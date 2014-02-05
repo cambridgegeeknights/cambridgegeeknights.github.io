@@ -1,0 +1,20 @@
+---
+title: CGN11
+layout: event
+lanyrd: http://lanyrd.com/2011/cgn11/
+---
+
+CGN11 will take place on Monday June 13th in our regular venue, the Cambridge Union. Talks start at 7:30pm, join us from 7pm (when the bar tab opens) for drinks and socialising.
+
+We currently have 2 main confirmed talks;
+
+<ul><li>In response to David Buxton's talk at <a href="/events/CGN10">CGN10</a>, Michael Brunton-Spall will be extolling App Engine's virtues</li>
+<li><a href="http://www.metalbeetle.com">David Stark</a> will be speaking about using neural networks for optical character recognition</li></ul>
+Lightning talks:
+
+* [Ben Francis](http://tola.me.uk/) will introduce his open source project [Webian Shell](http://webian.org)
+* There will also be a lightning talk to update all attendees on last month's discussion on the future of Cambridge Geek Nights
+
+Our drinks sponsor will be the [Guardian Open Platform](http://www.guardian.co.uk/open-platform).
+
+We still have a couple of spaces for lightning talks available, so if you have something interesting to say, drop us a line at <a href="mailto:mail@cambridgegeeknights.net">mail@cambridgegeeknights.net</a>.

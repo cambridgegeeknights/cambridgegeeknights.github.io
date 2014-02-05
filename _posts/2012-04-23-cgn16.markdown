@@ -1,0 +1,13 @@
+---
+title: CGN16
+layout: event
+lanyrd: http://lanyrd.com/2012/cgn16/
+---
+
+CGN16 is now confirmed for Monday 23rd April in our usual venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:30.
+
+Our first speaker will be Michael Brunton-Spall, Developer Advocate at the Guardian. He will be speaking on Developer Recruitment.
+
+Our second speaker is [Ben Francis](http://tola.me.uk/) - speaking on the Boot to Gecko project at Mozilla (a standalone mobile OS for the open web). [Slides](http://people.mozilla.com/~bfrancis/cgn16.pdf)
+
+John Grant from Nine Tile Networks will be giving a lightning talk.

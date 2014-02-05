@@ -1,0 +1,16 @@
+---
+title: CGN4
+layout: event
+lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-4/
+---
+
+After a short break, Cambridge Geek Nights are back! Our next gathering will held on Tuesday 3rd August at the <a href='http://cus.org/'>Cambridge
+  Union Society</a> building. The talks are starting at 7:30, but feel
+  free to start <del>drinking</del> <ins>congregating</ins> from 7:00.
+
+CGN4 is being sponsored by the lovely people at The Guardian Open Platform.
+
+Our speakers are now confirmed and are:
+<ul><li>Martin Lucas-Smith from <a href='http://www.cyclestreets.net/'>Cyclestreets</a>: Bicycle journey planning using open data</li>
+<li><a href="http://www.natematias.com/">Nathan Matias</a>: Instrumenting and performance testing multi-user web apps.</li></ul>
+Looking forward to seeing you all there on the 3rd!

@@ -1,0 +1,15 @@
+---
+title: CGN6
+layout: event
+lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-6/
+---
+
+CGN#6 will be held at 7:30pm on Monday 8th November (arrive from 7pm to take advantage of the bar tab), sponsored by [Cambridge Consultants](http://www.cambridgeconsultants.com).
+We are once again at The Cambridge Union (9a Bridge Street, Cambridge).
+
+This month we have 2 main speakers:
+
+* Richard Pope will be speaking about [ScraperWiki.com](http://scraperwiki.com)
+* After a postponement from speaking at CGN#5, Vero Pepperrell will tell the story of Alfred ([http://alfredapp.com](http://alfredapp.com)), a Mac productivity app launched in March, sharing some observations on how the community has grown & how you might apply this to your own project or app.
+
+As we only have 2 main speakers this month we’re looking for some of you to get involved by giving lightning talks. We already have one confirmed from our sponsor, Cambridge Consultants, but need approx 3 more.

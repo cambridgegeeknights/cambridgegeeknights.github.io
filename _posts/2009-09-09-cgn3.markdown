@@ -1,0 +1,19 @@
+---
+title: CGN3
+layout: event
+---
+
+<p>The next Cambridge Geek Night is being held on Wednesday 9th September
+  at the <a href="http://maps.google.co.uk/maps?q=20A+Portugal+Place+Cambridge%2C+CB5+8AF%20(The%20Maypole)">Maypole
+  pub</a>, which you may remember from such events as the last two Geek
+  Nights. The talks should be kicking off around half seven, but feel free
+  to come along a little earlier and help yourself to a <em>free beer</em>
+  (courtesy of the lovely people at <a href=`http://guardian.co.uk`>The
+  Guardian</a>).</p>
+
+<h2>Talks, you say?</h2>
+
+<p>Yup: this time around, we have <a href=`http://neilcrosby.com`>Neil
+  Crosby</a> giving a talk on using Yahoo! Pipes to mix, mash and
+  otherwise munge your data, and Richard Pope talking about his adventures
+  in freeing the postcode.</p>

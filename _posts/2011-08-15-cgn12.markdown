@@ -1,0 +1,19 @@
+---
+title: CGN12
+layout: event
+lanyrd: http://lanyrd.com/2011/cgn12/
+---
+
+CGN12 is confirmed for 15th August 2011 from 7pm at the [Cambridge Union](/cambridge-union-venue-page). Our sponsor will be the lovely people at the [Guardian Open Platform](www.guardian.co.uk/open-platform).<br>
+
+Our main speaker is [Neil Crosby](http://neilcrosby.com/) from the BBC homepage team, with a talk titled "Team ++". He will be speaking about his experiences in improving teamwork between his colleagues. [Slides](http://www.slideshare.net/neilcrosby/team-8855746)
+
+Lightning talks:
+<ul>
+<li>The guys from [SVc2UK](http://svc2uk.com/) explained what they do, and are looking for a php developer to join their volunteer team.</li></ul>
+
+Richard Boulton gave 3 very short talks:
+    <ul><li>the first being a description and advocation of [Userv](http://www.gnu.org/s/userv/).</li>
+    <li>the second on Geoencoding for Xapian</li>
+    <li>and finally a mention of the RestPose search server</li>
+</ul>

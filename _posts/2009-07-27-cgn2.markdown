@@ -1,0 +1,14 @@
+---
+title: CGN2
+layout: event
+---
+
+CGN 2 will be on 29th July, at [the Maypole](http://maps.google.co.uk/maps?q=CB5+8AF&hl=en&ie=UTF8&z=16), the same location as last time. This month, the evening is sponsored by the kind folks at [The Guardian’s Open Platform](http://www.guardian.co.uk/open-platform). We’ll open the beer tab from 19:00 (or maybe a bit earlier!) and talks will begin at 19:30.
+
+The speakers are:
+
+* Richard Boulton: Xapian, the open source search engine ([Slides](http://www.slideshare.net/rboulton/the-xapian-open-source-search-engine))
+* Patrick Farrant from Taylor Vinters solicitors: Legal aspects of entrepreneurship and protecting creative ideas ([Slides](http://www.slideshare.net/thatcanadiangirl/intellectual-property-for-cambridge-geeks))
+* Michael Brunton-Spall from the Guardian: The MPs expenses crowdsourcing app and the Guardian API ([Slides](http://www.slideshare.net/mibuk/mashing-up-the-guardian))
+ 
+The beer tab will be open from 7pm onwards, so grab a beer and head upstairs, as we have the room reserved for the evening.

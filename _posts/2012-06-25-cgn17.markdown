@@ -1,0 +1,11 @@
+---
+title: CGN17
+layout: event
+lanyrd: http://lanyrd.com/2012/cgn17/
+---
+
+CGN17 is now confirmed for Monday 25th June in our usual venue, the Cambridge Union. Arrive from 7pm for drinks, kindly sponsored by ecm, with talks starting at 7:30.
+
+Our first confirmed speaker is Lucy Chambers from the Open Knowledge Foundation. She will be speaking about the [Data Journalism Handbook](http://datajournalismhandbook.org/) - what it is, and the experience of crowdsourcing the material.
+
+Our second speaker will be Greg Law from [Undo Software](http://www.undo-software.com/). He will be speaking about his experiences of setting up a software company, and describes his talk as follows: "The orthodox way of building a technology company is to raise a bucket-load of cash, start spending it, and hope you can get to break-even before the money runs out. Instead, we "boot-strapped" the company (without any real savings), and didn't take on external funding until almost seven years later, when the business was already self-sustaining." Greg will talk about his experiences and analyse the pros and cons of building a UK technology business this way.
