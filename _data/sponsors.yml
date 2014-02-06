@@ -1,0 +1,28 @@
+guardian:
+  name: The Guardian Open Platform
+  image_url: /img/sponsors/guardian_logo.png
+  url: http://www.guardian.co.uk/open-platform
+freeagent:
+  name: FreeAgent
+  image_url: /img/sponsors/freeagent_logo.png
+  url: http://www.freeagentcentral.com/
+pepsmedia:
+  name: Pepsmedia
+  image_url: /img/sponsors/pepsmedia_logo.jpg
+  url: http://www.pepsmedia.com/
+redgate:
+  name: Red Gate
+  image_url: /img/sponsors/rg-software-greatplacetowork-onwhite.jpg
+  url: http://www.red-gate.com/
+cc:
+  name: Cambridge Consultants
+  image_url: /img/sponsors/cc_col_web.gif
+  url: http://www.cambridgeconsultants.com/
+studio24:
+  name: Studio 24
+  image_url: /img/sponsors/studio24_logo.png
+  url: http://www.studio24.net/
+ecm:
+  name: ECM
+  image_url: /img/sponsors/ecm_logo.png
+  url: http://www.ecmselection.co.uk/

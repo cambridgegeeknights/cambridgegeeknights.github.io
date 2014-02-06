@@ -2,6 +2,7 @@
 title: CGN4
 layout: event
 lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-4/
+sponsor: guardian
 ---
 
 After a short break, Cambridge Geek Nights are back! Our next gathering will held on Tuesday 3rd August at the <a href='http://cus.org/'>Cambridge

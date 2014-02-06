@@ -1,6 +1,7 @@
 ---
 title: CGN2
 layout: event
+sponsor: guardian
 ---
 
 CGN 2 will be on 29th July, at [the Maypole](http://maps.google.co.uk/maps?q=CB5+8AF&hl=en&ie=UTF8&z=16), the same location as last time. This month, the evening is sponsored by the kind folks at [The Guardian’s Open Platform](http://www.guardian.co.uk/open-platform). We’ll open the beer tab from 19:00 (or maybe a bit earlier!) and talks will begin at 19:30.

@@ -14,6 +14,16 @@
         <h1>{{ page.title }}</h1>
         <p class="date">{{ page.date | date_to_long_string }}</p>
       </div>
+      {% for sponsor in site.data.sponsors %}
+      {% if sponsor[0] == page.sponsor %}
+      <div class="sponsor">
+        Sponsored by
+        <a href="{{ sponsor[1].url }}">
+          <img src="{{ sponsor[1].image_url }}" alt="{{ sponsor[1].name }}">
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
       
       {% if page.lanyrd %}
       <p><a class="lanyrd" href="{{ event.lanyrd }}">

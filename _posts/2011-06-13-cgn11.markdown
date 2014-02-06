@@ -2,6 +2,7 @@
 title: CGN11
 layout: event
 lanyrd: http://lanyrd.com/2011/cgn11/
+sponsor: guardian
 ---
 
 CGN11 will take place on Monday June 13th in our regular venue, the Cambridge Union. Talks start at 7:30pm, join us from 7pm (when the bar tab opens) for drinks and socialising.

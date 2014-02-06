@@ -2,6 +2,7 @@
 title: CGN7
 layout: event
 lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-7/
+sponsor: pepsmedia
 ---
 
 The 7th Cambridge Geek Night will be held on

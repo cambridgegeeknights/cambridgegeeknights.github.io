@@ -2,6 +2,7 @@
 title: CGN18
 layout: event
 lanyrd: http://lanyrd.com/2012/cgn18/
+sponsor: ecm
 ---
 
 CGN18 is now confirmed for **Tuesday** 21st August in our usual venue, the Cambridge Union. Arrive from 7pm for drinks, with talks starting at 7:30.

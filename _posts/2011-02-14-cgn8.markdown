@@ -2,6 +2,7 @@
 title: CGN8
 layout: event
 lanyrd: http://lanyrd.com/2011/cambridge-geek-night-8/
+sponsor: guardian
 ---
 
 CGN 8 will be 14th Feb 2011, once again at the Cambridge Union from 7 o'clock.

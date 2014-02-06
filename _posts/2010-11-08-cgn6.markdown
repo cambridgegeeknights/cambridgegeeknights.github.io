@@ -2,6 +2,7 @@
 title: CGN6
 layout: event
 lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-6/
+sponsor: cc
 ---
 
 CGN#6 will be held at 7:30pm on Monday 8th November (arrive from 7pm to take advantage of the bar tab), sponsored by [Cambridge Consultants](http://www.cambridgeconsultants.com).

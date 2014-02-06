@@ -2,6 +2,7 @@
 title: CGN16
 layout: event
 lanyrd: http://lanyrd.com/2012/cgn16/
+sponsor: guardian
 ---
 
 CGN16 is now confirmed for Monday 23rd April in our usual venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:30.

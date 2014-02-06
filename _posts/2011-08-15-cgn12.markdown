@@ -2,6 +2,7 @@
 title: CGN12
 layout: event
 lanyrd: http://lanyrd.com/2011/cgn12/
+sponsor: guardian
 ---
 
 CGN12 is confirmed for 15th August 2011 from 7pm at the [Cambridge Union](/cambridge-union-venue-page). Our sponsor will be the lovely people at the [Guardian Open Platform](www.guardian.co.uk/open-platform).<br>

@@ -2,6 +2,7 @@
 title: CGN5
 layout: event
 lanyrd: http://lanyrd.com/2010/cambridge-geek-nights-5/
+sponsor: redgate
 ---
 
 <p>The next Cambridge Geek Night is now confirmed&mdash;apologies for the

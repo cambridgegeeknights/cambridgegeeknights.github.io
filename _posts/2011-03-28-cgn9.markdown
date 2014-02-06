@@ -2,6 +2,7 @@
 title: CGN9
 layout: event
 lanyrd: http://lanyrd.com/2011/cambridge-geek-night-9/
+sponsor: freeagent
 ---
 
 Cambridge Geek Night 9 will be held at the Cambridge Union from 7 o'clock on Monday 28th March, sponsored by <a href=`http://www.freeagentcentral.com/`>FreeAgent</a>.

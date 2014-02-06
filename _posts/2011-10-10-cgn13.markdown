@@ -2,6 +2,7 @@
 title: CGN13
 layout: event
 lanyrd: http://lanyrd.com/2011/cgn13/
+sponsor: studio24
 ---
 
 CGN13 took place on Monday 10th October at our regular venue, the [Cambridge Union](/cambridge-union-venue-page) with talks starting at 7:30pm. The event was sponsored by [Studio 24](http://www.studio24.net).

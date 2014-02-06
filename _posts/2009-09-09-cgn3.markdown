@@ -1,6 +1,7 @@
 ---
 title: CGN3
 layout: event
+sponsor: guardian
 ---
 
 <p>The next Cambridge Geek Night is being held on Wednesday 9th September
