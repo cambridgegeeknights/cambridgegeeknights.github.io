@@ -5,7 +5,7 @@ lanyrd: http://lanyrd.com/2012/cgn15/
 sponsor: ecm
 ---
 
-CGN15 is confirmed for Monday 20th February at our regular venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:45.
+CGN15 is confirmed for Monday 20th February at our regular venue, the Cambridge Union. Arrive from 7pm for drinks, with talks starting at 7:45.
 
 Our first speaker will be Chris Crowe, talking about “Discovering the early universe with supercomputers”.  He is an Astrophysicist at the Institute of Astronomy working on the ESA Planck Satellite, building models of the universe to test with data.
 

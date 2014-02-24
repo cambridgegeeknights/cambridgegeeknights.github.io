@@ -5,7 +5,7 @@ lanyrd: http://lanyrd.com/2011/cgn12/
 sponsor: guardian
 ---
 
-CGN12 is confirmed for 15th August 2011 from 7pm at the [Cambridge Union](/cambridge-union-venue-page). Our sponsor will be the lovely people at the [Guardian Open Platform](www.guardian.co.uk/open-platform).<br>
+CGN12 is confirmed for 15th August 2011 from 7pm at the Cambridge Union. Our sponsor will be the lovely people at the [Guardian Open Platform](www.guardian.co.uk/open-platform).<br>
 
 Our main speaker is [Neil Crosby](http://neilcrosby.com/) from the BBC homepage team, with a talk titled "Team ++". He will be speaking about his experiences in improving teamwork between his colleagues. [Slides](http://www.slideshare.net/neilcrosby/team-8855746)
 

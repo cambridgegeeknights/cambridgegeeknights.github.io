@@ -5,7 +5,7 @@ lanyrd: http://lanyrd.com/2011/cgn13/
 sponsor: studio24
 ---
 
-CGN13 took place on Monday 10th October at our regular venue, the [Cambridge Union](/cambridge-union-venue-page) with talks starting at 7:30pm. The event was sponsored by [Studio 24](http://www.studio24.net).
+CGN13 took place on Monday 10th October at our regular venue, the Cambridge Union, with talks starting at 7:30pm. The event was sponsored by [Studio 24](http://www.studio24.net).
 
 Our first speaker was [Bill Thompson](http://www.twitter.com/billt), who spoke about "Being [@bbcbillt](http://www.twitter.com/bbcbillt)".
 After more than a decade as a freelance writer, broadcaster and pundit Cambridge geek Bill Thompson took a real job in the archive development team at the BBC. For the last two years he's been been part of a small group looking at what the BBC can do with its amazing archive of TV and radio programmes, photos, documents, sheet music and small spinning globes (the old BBC One station id that some of you may remember).  After a few drinks he'll tell you his job is about 'giving the Enlightenment another Five Hundred Years', but he's promised to be sober for tonight's talk about the archive and why it's vital to ensure that our digital culture offers access to the analogue material that has survived so far.
