@@ -1,0 +1,18 @@
+<div id="secondary">
+  <h2>Other events</h2>
+  {% for event in site.posts | reverse %}
+    {% unless event.path == page.path %}
+      {% capture event_year %}{{ event.date | date: "%Y" }}{% endcapture %}
+      {% if event_year != previous_event_year %}
+      {% if previous_event_year %}</ol>{% endif %}
+      <h3>{{ event_year }}</h3>
+      <ol>
+      {% endif %}
+        <li>
+          <a href="{{ event.url }}">{{ event.title }}</a> &ndash; {{ event.date | date:"%d %B" }}
+        </li>
+      {% capture previous_event_year %}{{ event_year }}{% endcapture %}
+      {% unless event.previous %}</ol>{% endunless %}
+    {% endunless %}
+  {% endfor %}
+</div>
