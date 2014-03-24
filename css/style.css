@@ -49,6 +49,18 @@ h1, h2, #title {
   color: #66C;
 }
 
+#obituary {
+  text-align: center;
+  background-color: #FEE;
+  border: 1px solid #C99;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+#obituary p {
+  margin: 0;
+}
+
 h1 {
   font-size: 2em;
   margin-bottom: 0;
