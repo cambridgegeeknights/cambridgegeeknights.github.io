@@ -1,0 +1,553 @@
+[
+    {
+        "pk": 2, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2009-06-10", 
+            "lanyrd_url": "", 
+            "sponsor": null, 
+            "name": "CGN1", 
+            "slug": "cgn1"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2009-07-27", 
+            "lanyrd_url": "", 
+            "sponsor": 1, 
+            "name": "CGN2", 
+            "slug": "cgn2"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2009-09-09", 
+            "lanyrd_url": "", 
+            "sponsor": 1, 
+            "name": "CGN3", 
+            "slug": "cgn3"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2010-08-03", 
+            "lanyrd_url": "http://lanyrd.com/2010/cambridge-geek-nights-4/", 
+            "sponsor": 1, 
+            "name": "CGN4", 
+            "slug": "cgn4"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2010-09-28", 
+            "lanyrd_url": "http://lanyrd.com/2010/cambridge-geek-nights-5/", 
+            "sponsor": 4, 
+            "name": "CGN5", 
+            "slug": "cgn5"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2010-11-08", 
+            "lanyrd_url": "http://lanyrd.com/2010/cambridge-geek-nights-6/", 
+            "sponsor": 5, 
+            "name": "CGN6", 
+            "slug": "cgn6"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2010-12-13", 
+            "lanyrd_url": "http://lanyrd.com/2010/cambridge-geek-nights-7/", 
+            "sponsor": 3, 
+            "name": "CGN7", 
+            "slug": "cgn7"
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-02-14", 
+            "lanyrd_url": "http://lanyrd.com/2011/cambridge-geek-night-8/", 
+            "sponsor": 1, 
+            "name": "CGN8", 
+            "slug": "cgn8"
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-03-28", 
+            "lanyrd_url": "http://lanyrd.com/2011/cambridge-geek-night-9/", 
+            "sponsor": 2, 
+            "name": "CGN9", 
+            "slug": "cgn9"
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-05-09", 
+            "lanyrd_url": "http://lanyrd.com/2011/cambridge-geek-night-10/", 
+            "sponsor": null, 
+            "name": "CGN10", 
+            "slug": "cgn10"
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-06-13", 
+            "lanyrd_url": "http://lanyrd.com/2011/cgn11/", 
+            "sponsor": 1, 
+            "name": "CGN11", 
+            "slug": "cgn11"
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-08-15", 
+            "lanyrd_url": "http://lanyrd.com/2011/cgn12/", 
+            "sponsor": 1, 
+            "name": "CGN12", 
+            "slug": "cgn12"
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-10-10", 
+            "lanyrd_url": "http://lanyrd.com/2011/cgn13/", 
+            "sponsor": 6, 
+            "name": "CGN13", 
+            "slug": "cgn13"
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2011-12-05", 
+            "lanyrd_url": "http://lanyrd.com/2011/cgn14/", 
+            "sponsor": 1, 
+            "name": "CGN14", 
+            "slug": "cgn14"
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2012-02-20", 
+            "lanyrd_url": "http://lanyrd.com/2012/cgn15/", 
+            "sponsor": 7, 
+            "name": "CGN15", 
+            "slug": "cgn15"
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2012-04-23", 
+            "lanyrd_url": "http://lanyrd.com/2012/cgn16/", 
+            "sponsor": 1, 
+            "name": "CGN16", 
+            "slug": "cgn16"
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2012-06-25", 
+            "lanyrd_url": "http://lanyrd.com/2012/cgn17/", 
+            "sponsor": 7, 
+            "name": "CGN17", 
+            "slug": "cgn17"
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "geeknights.geeknight", 
+        "fields": {
+            "date": "2012-08-21", 
+            "lanyrd_url": "", 
+            "sponsor": 7, 
+            "name": "CGN18", 
+            "slug": "cgn18"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.guardian.co.uk/open-platform", 
+            "name": "The Guardian Open Platform", 
+            "image_filename": "guardian_logo.png"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.freeagentcentral.com/", 
+            "name": "FreeAgent", 
+            "image_filename": "freeagent_logo.png"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.pepsmedia.com/", 
+            "name": "Pepsmedia", 
+            "image_filename": "pepsmedia_logo.jpg"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.red-gate.com/", 
+            "name": "Red Gate", 
+            "image_filename": "rg-software-greatplacetowork-onwhite.jpg"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.cambridgeconsultants.com/", 
+            "name": "Cambridge Consultants", 
+            "image_filename": "cc_col_web.gif"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.studio24.net/", 
+            "name": "Studio 24", 
+            "image_filename": "studio24_logo.png"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "geeknights.sponsor", 
+        "fields": {
+            "url": "http://www.ecmselection.co.uk/", 
+            "name": "ecm", 
+            "image_filename": "ecm_logo.png"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN11 will take place on Monday June 13th in our regular venue, the Cambridge Union. Talks start at 7:30pm, join us from 7pm (when the bar tab opens) for drinks and socialising.\r\n\r\nWe currently have 2 main confirmed talks;\r\n\r\n<ul><li>In response to David Buxton's talk at <a href=\"/events/CGN10\">CGN10</a>, Michael Brunton-Spall will be extolling App Engine's virtues</li>\r\n<li><a href=\"http://www.metalbeetle.com\">David Stark</a> will be speaking about using neural networks for optical character recognition</li></ul>\r\nLightning talks:\r\n\r\n* [Ben Francis](http://tola.me.uk/) will introduce his open source project [Webian Shell](http://webian.org)\r\n* There will also be a lightning talk to update all attendees on last month's discussion on the future of Cambridge Geek Nights\r\n\r\nOur drinks sponsor will be the [Guardian Open Platform](http://www.guardian.co.uk/open-platform).\r\n\r\nWe still have a couple of spaces for lightning talks available, so if you have something interesting to say, drop us a line at <a href=\"mailto:mail@cambridgegeeknights.net\">mail@cambridgegeeknights.net</a>.", 
+            "event": 11
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN10 is now confirmed for May 9th 2011, 7pm at the Cambridge Union.\r\n\r\nOur main speaker is David Buxton from [Arachnys](http://www.arachnys.com), with a talk titled \"Google App Engine - Experiences from the trenches\".\r\nThere will be a response to this talk at <a href=\"/events/cgn11\">CGN11</a> by Michael Brunton-Spall.\r\n\r\n**Update**:\r\nAfter the talks a few people stayed behind to discuss the future of Cambridge Geek Nights. A lightning talk will explain the conclusions at CGN11, but in summary:\r\n\r\n* Events should be every 2 months\r\n* Two main talks of 15-20 mins plus questions, and a few lightning talks is about right\r\n* Talks will be kept to their timings in future, including sponsor talks", 
+            "event": 10
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "Cambridge Geek Night 9 will be held at the Cambridge Union from 7 o'clock on Monday 28th March, sponsored by <a href=`http://www.freeagentcentral.com/`>FreeAgent</a>.\r\n\r\n* Craig Mills will speak about \"Mapping National Parks\"\r\n* Gareth Rushgrove (whilst also representing FreeAgent our sponsor) will talk on \"Web monitoring and Metrics with Ganglia and Friends\"\r\n\r\nBoth sets of [slides](http://lanyrd.com/2011/cambridge-geek-night-9/slides/) are now available.\r\n\r\n", 
+            "event": 9
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN 8 will be 14th Feb 2011, once again at the Cambridge Union from 7 o'clock.\r\nOur two speakers are:\r\n\r\n* Rufus Pollock from the Open Knowledge Foundation will be speaking about \"Digging into data with [CKAN](http://ckan.net) and datapkg\"\r\n* John Souter will speak about the [London Internet Exchange](https://linx.net)\r\n\r\nBoth sets of slides are available on the [Lanyrd event page](http://lanyrd.com/2011/cambridge-geek-night-8/).", 
+            "event": 8
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "The 7th Cambridge Geek Night will be held on\r\n  <span class=`date`>Monday 13th December</span>, once again at the\r\n  <a href=`http://www.cus.org`>Cambridge Union</a> from 7 o&rsquo;clock.\r\n\r\nOur speakers will be <a href=`http://www.brunton-spall.co.uk/`>Michael Brunton-Spall</a> giving an introduction to Git, and Artur Ortega giving us an insight to accessibility by showing a screen reader demonstration.\r\n\r\nOur generous drinks sponsor will be [Pepsmedia](http://www.pepsmedia.com).", 
+            "event": 7
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN#6 will be held at 7:30pm on Monday 8th November (arrive from 7pm to take advantage of the bar tab), sponsored by [Cambridge Consultants](http://www.cambridgeconsultants.com).\r\nWe are once again at The Cambridge Union (9a Bridge Street, Cambridge).\r\n\r\nThis month we have 2 main speakers:\r\n\r\n* Richard Pope will be speaking about [ScraperWiki.com](http://scraperwiki.com)\r\n* After a postponement from speaking at CGN#5, Vero Pepperrell will tell the story of Alfred ([http://alfredapp.com](http://alfredapp.com)), a Mac productivity app launched in March, sharing some observations on how the community has grown & how you might apply this to your own project or app.\r\n\r\nAs we only have 2 main speakers this month we\u2019re looking for some of you to get involved by giving lightning talks. We already have one confirmed from our sponsor, Cambridge Consultants, but need approx 3 more.", 
+            "event": 6
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "<p>The next Cambridge Geek Night is now confirmed&mdash;apologies for the\r\n  short notice&mdash;for <span class=`date`>Tuesday 28th September</span>.\r\n  Like last time, it&rsquo;ll be at the <a href=`http://www.cus.org`>Cambridge\r\n  Union</a> from 7 o&rsquo;clock, with talks kicking off at 7:30.  Our drinks sponsor is <a href=\"http://www.red-gate.com\">Red Gate Software</a>.\r\n</p>\r\n* This month, <a href=`http://www.yes-no-cancel.co.uk/`>Martin Kleppmann</a>, fresh off a plane from San Francisco, will be talking about <a href=\"http://rapportive.com\">Rapportive</a>, the browser add-on that tries to make your email inbox a better place.\r\n* <a href=`http://www.thatcanadiangirl.co.uk/`>Vero Pepperrell</a> will tell the story of <a href=\"http://alfredapp.com\">Alfred</a>, a Mac productivity app launched in March, sharing some observations on how the community has grown & how you might apply this to your own project or app.\r\n* Lisa Evans from the <a href=\"http://www.okfn.org\">Open Knowledge Foundation</a> will be talking about \"<a href=`http://www.wheredoesmymoneygo.org/`>Where Does My Money Go?</a>\u201d, and on using technology to visualise and explore Government data.\r\n\r\nWe\u2019ll also have a couple of lightning talks from ideaSpace, a new coworking space in Cambridge University\u2019s Hauser Forum, as well as this month\u2019s generous sponsors from Red Gate, who will be speaking about the current employment opportunities within the company.", 
+            "event": 1
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "After a short break, Cambridge Geek Nights are back! Our next gathering will held on Tuesday 3rd August at the <a href='http://cus.org/'>Cambridge\r\n  Union Society</a> building. The talks are starting at 7:30, but feel\r\n  free to start <del>drinking</del> <ins>congregating</ins> from 7:00.\r\n\r\nCGN4 is being sponsored by the lovely people at The Guardian Open Platform.\r\n\r\nOur speakers are now confirmed and are:\r\n<ul><li>Martin Lucas-Smith from <a href='http://www.cyclestreets.net/'>Cyclestreets</a>: Bicycle journey planning using open data</li>\r\n<li><a href=\"http://www.natematias.com/\">Nathan Matias</a>: Instrumenting and performance testing multi-user web apps.</li></ul>\r\nLooking forward to seeing you all there on the 3rd!", 
+            "event": 5
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "<p>The next Cambridge Geek Night is being held on Wednesday 9th September\r\n  at the <a href=`http://maps.google.co.uk/maps?q=20A+Portugal+Place+Cambridge%2C+CB5+8AF%20(The%20Maypole)`>Maypole\r\n  pub</a>, which you may remember from such events as the last two Geek\r\n  Nights. The talks should be kicking off around half seven, but feel free\r\n  to come along a little earlier and help yourself to a <em>free beer</em>\r\n  (courtesy of the lovely people at <a href=`http://guardian.co.uk`>The\r\n  Guardian</a>).</p>\r\n\r\n<h2>Talks, you say?</h2>\r\n\r\n<p>Yup: this time around, we have <a href=`http://neilcrosby.com`>Neil\r\n  Crosby</a> giving a talk on using Yahoo! Pipes to mix, mash and\r\n  otherwise munge your data, and Richard Pope talking about his adventures\r\n  in freeing the postcode.</p>", 
+            "event": 4
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN 2 will be on 29th July, at [the Maypole](http://maps.google.co.uk/maps?q=CB5+8AF&hl=en&ie=UTF8&z=16), the same location as last time. This month, the evening is sponsored by the kind folks at [The Guardian\u2019s Open Platform](http://www.guardian.co.uk/open-platform). We\u2019ll open the beer tab from 19:00 (or maybe a bit earlier!) and talks will begin at 19:30.\r\n\r\nThe speakers are:\r\n\r\n* Richard Boulton: Xapian, the open source search engine ([Slides](http://www.slideshare.net/rboulton/the-xapian-open-source-search-engine))\r\n* Patrick Farrant from Taylor Vinters solicitors: Legal aspects of entrepreneurship and protecting creative ideas ([Slides](http://www.slideshare.net/thatcanadiangirl/intellectual-property-for-cambridge-geeks))\r\n* Michael Brunton-Spall from the Guardian: The MPs expenses crowdsourcing app and the Guardian API ([Slides](http://www.slideshare.net/mibuk/mashing-up-the-guardian))\r\n \r\nThe beer tab will be open from 7pm onwards, so grab a beer and head upstairs, as we have the room reserved for the evening.", 
+            "event": 3
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "Our first Cambridge Geek Night will be held at [The Maypole](http://maps.google.co.uk/maps?q=CB5+8AF&hl=en&ie=UTF8&z=16) on 10 June 2009. ", 
+            "event": 2
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN12 is confirmed for 15th August 2011 from 7pm at the [Cambridge Union](/cambridge-union-venue-page). Our sponsor will be the lovely people at the [Guardian Open Platform](www.guardian.co.uk/open-platform).<br>\r\n\r\nOur main speaker is [Neil Crosby](http://neilcrosby.com/) from the BBC homepage team, with a talk titled \"Team ++\". He will be speaking about his experiences in improving teamwork between his colleagues. [Slides](http://www.slideshare.net/neilcrosby/team-8855746)\r\n\r\nLightning talks:\r\n<ul>\r\n<li>The guys from [SVc2UK](http://svc2uk.com/) explained what they do, and are looking for a php developer to join their volunteer team.</li></ul>\r\n\r\nRichard Boulton gave 3 very short talks:\r\n    <ul><li>the first being a description and advocation of [Userv](http://www.gnu.org/s/userv/).</li>\r\n    <li>the second on Geoencoding for Xapian</li>\r\n    <li>and finally a mention of the RestPose search server</li>\r\n</ul>", 
+            "event": 12
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN13 took place on Monday 10th October at our regular venue, the [Cambridge Union](/cambridge-union-venue-page) with talks starting at 7:30pm. The event was sponsored by [Studio 24](http://www.studio24.net).\r\n\r\nOur first speaker was [Bill Thompson](http://www.twitter.com/billt), who spoke about \"Being [@bbcbillt](http://www.twitter.com/bbcbillt)\".\r\nAfter more than a decade as a freelance writer, broadcaster and pundit Cambridge geek Bill Thompson took a real job in the archive development team at the BBC. For the last two years he's been been part of a small group looking at what the BBC can do with its amazing archive of TV and radio programmes, photos, documents, sheet music and small spinning globes (the old BBC One station id that some of you may remember).  After a few drinks he'll tell you his job is about 'giving the Enlightenment another Five Hundred Years', but he's promised to be sober for tonight's talk about the archive and why it's vital to ensure that our digital culture offers access to the analogue material that has survived so far.\r\n\r\nOur second speaker was [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/), who will be talking about his work with the [Computing at School Working Group](http://www.computingatschool.org.uk/) tackling the ICT education crisis in UK schools, putting the excitement and rigour of computing science back into the school curriculum and showing young people that there is more to computing than Word and PowerPoint.\r\n\r\nWe also had lightning talks from:\r\n\r\n* Our sponsors, [Studio 24](http://www.studio24.net)\r\n* Tom Playford giving an introduction to Django.\r\n* [Mark Cheverton](http://polis.ecafe.org/) entitled \"Small pieces, loosely joined: An example of processing real-time data\".\r\n", 
+            "event": 13
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN14 is confirmed for Monday 5th December at our regular venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:30.\r\n\r\nOur two main talks are confirmed as:\r\n\r\n* A talk by [Mazz Mosley](http://twitter.com/mnowster), a female developer, on the 12 things she'd like from her tech community. There won't be a partridge in a pear tree or a pink pony in sight. Gleaned from 9 years of development experience here's 12 things *you* can do to help make the tech industry a better place, not just for women, but for _everyone_! Who doesn't want to be more awesome?\r\n* [Duncan MacGregor](http://twitter.com/aardvark179), a lead software engineer working for General Electric on compilers and run-time systems will be speaking on \"Dynamic languages & Java 7\". The latest version of the JVM has added several features which make it a very attractive target for running languages that aren't Java, especially dynamic languages. Why would you want to port a language to run on the JVM, how can you do it, and what's still to come that will make things even better.", 
+            "event": 14
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN15 is confirmed for Monday 20th February at our regular venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:45.\r\n\r\nOur first speaker will be Chris Crowe, talking about \u201cDiscovering the early universe with supercomputers\u201d.  He is an Astrophysicist at the Institute of Astronomy working on the ESA Planck Satellite, building models of the universe to test with data.\r\n\r\nAlso speaking will be [Gareth Rushgrove](http://www.morethanseven.net/), who works as an in-house developer and server wrangler for the new [Government Digital Service](http://digital.cabinetoffice.gov.uk/). He will be discussing his experiences with agile development with a talk titled \u201cWhat worked and what we would change about how we built [GOV.UK](http://gov.uk)\u201d.\r\n\r\nWe will also have a lighting talk from Laura Newman and Peter Murray-Rust on open science and the Panton Fellowship.", 
+            "event": 15
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN16 is now confirmed for Monday 23rd April in our usual venue, the [Cambridge Union](http://cambridgegeeknights.net/cambridge-union-venue-page/). Arrive from 7pm for drinks, with talks starting at 7:30.\r\n\r\nOur first speaker will be Michael Brunton-Spall, Developer Advocate at the Guardian. He will be speaking on Developer Recruitment.\r\n\r\nOur second speaker is [Ben Francis](http://tola.me.uk/) - speaking on the Boot to Gecko project at Mozilla (a standalone mobile OS for the open web). [Slides](http://people.mozilla.com/~bfrancis/cgn16.pdf)\r\n\r\nJohn Grant from Nine Tile Networks will be giving a lightning talk.", 
+            "event": 16
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN17 is now confirmed for Monday 25th June in our usual venue, the Cambridge Union. Arrive from 7pm for drinks, kindly sponsored by ecm, with talks starting at 7:30.\r\n\r\nOur first confirmed speaker is Lucy Chambers from the Open Knowledge Foundation. She will be speaking about the [Data Journalism Handbook](http://datajournalismhandbook.org/) - what it is, and the experience of crowdsourcing the material.\r\n\r\nOur second speaker will be Greg Law from [Undo Software](http://www.undo-software.com/). He will be speaking about his experiences of setting up a software company, and describes his talk as follows: \"The orthodox way of building a technology company is to raise a bucket-load of cash, start spending it, and hope you can get to break-even before the money runs out. Instead, we \"boot-strapped\" the company (without any real savings), and didn't take on external funding until almost seven years later, when the business was already self-sustaining.\" Greg will talk about his experiences and analyse the pros and cons of building a UK technology business this way.", 
+            "event": 17
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "geeknights.eventpage", 
+        "fields": {
+            "text": "CGN18 is now confirmed for **Tuesday** 21st August in our usual venue, the Cambridge Union. Arrive from 7pm for drinks, with talks starting at 7:30.\r\n\r\n**Beyond a Geek Manifesto**: Cambridge MP [Julian Huppert](http://www.julianhuppert.org.uk/), [Geek Manifesto](http://geekmanifesto.wordpress.com/) author Mark Henderson and [speaker to be announced] talk about science/tech engagement in the policy/political world, and what can be done about it", 
+            "event": 18
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>The next Cambridge Geek Night is now confirmed&mdash;apologies for the\n  short notice&mdash;for <span class=`date`>Tuesday 28th September</span>.\n  Like last time, it&rsquo;ll be at the <a href=`http://www.cus.org`>Cambridge\n  Union</a> from 7 o&rsquo;clock, with talks kicking off at 7:30.\n</p>\n\n<p>This time around, we&rsquo;ve got\n  <a href=`http://www.yes-no-cancel.co.uk/`>Martin Kleppmann</a> on\n  <a href=`http://rapportive.com/`>Rapportive</a>,\n  <a href=`http://www.thatcanadiangirl.co.uk/`>Vero Pepperrell</a> on\n  <a href=`http://www.alfredapp.com/`>Alfred</a>, and Lisa Evans on\n  <a href=`http://www.wheredoesmymoneygo.org/`>Where Does My Money Go?</a>.\n  As usual, further details are <a href=`http://cambridgegeeknights.wordpress.com/2010/09/22/cgn-5/`>\n    on our blog</a>.\n</p>\n", 
+            "timestamp": "2010-09-24 20:54:47", 
+            "event": 1, 
+            "title": "CGN5 confirmed"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>So, it&rsquo;s finally official: the next Cambridge Geek Night will be\n  held on Tuesday 3rd August at the <a href=`http://cus.org/`>Cambridge\n  Union Society</a> building. The talks are starting at 7:30, but feel\n  free to start <del>drinking</del> <ins>congregating</ins> from 7:00.</p>\n\n<p>Our two main speakers for the evening will be Martin Lucas-Smith from\n  <a href=`http://www.cyclestreets.net/`>CycleStreets</a>, and\n  <a href=`http://www.natematias.com/`>Nathan Mathias</a>. You can find\n  <a href=`http://cambridgegeeknights.wordpress.com/2010/07/21/cambridge-geek-night-4/`>\n    more details on our blog</a>.</p>\n", 
+            "timestamp": "2010-07-21 23:13:30", 
+            "event": 5, 
+            "title": "CGN4 Announced!"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>As final, incontrovertible proof that\r\n  <a href=`http://twitter.com/NeilCrosby/status/18117919724`>Neil Crosby\r\n  failed to kill us</a>, we held the fourth Cambridge Geek Night on\r\n  Tuesday 3rd August, at the <a href=`http://www.cus.org`>Cambridge\r\n  Union</a>. Our speakers were Martin Lucas-Smith from\r\n  <a href=`http://www.cyclestreets.net`>CycleStreets</a> and Nathan\r\n  Matias, with lightning talks by James Counsell from the Union, Vero\r\n  Pepperrell and Pierre Far. Our thanks to all our speakers, to the Union\r\n  for the venue, to the folks at the Guardian for sponsoring the bar tab,\r\n  to everyone involved in organising the night, and of course to everyone\r\n  who came along.</p>\r\n\r\n<p>The next night is <em>provisionally</em> scheduled for Tuesday 28th\r\n  September, again to be held at the Union. When we get a confirmed date,\r\n  we will be sure to let you all know.</p>\r\n", 
+            "timestamp": "2010-08-15 21:37:24", 
+            "event": 5, 
+            "title": "So: that went well."
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>The next Cambridge Geek Night is confirmed for\n  <span class=`date`>Monday 8th November</span>, once again at the\n  <a href=`http://www.cus.org`>Cambridge Union</a> from 7 o&rsquo;clock,\n  with talks from <a href=`http://memespring.co.uk/`>Richard Pope</a>\n  and <a href=`http://www.thatcanadiangirl.co.uk/`>Vero Pepperrell</a>\n  starting at 7:30.\n  Further details <a href=`http://cambridgegeeknights.wordpress.com/2010/10/29/cgn-6/`>\n    on our blog</a>.\n</p>\n", 
+            "timestamp": "2010-10-30 17:55:44", 
+            "event": 6, 
+            "title": "CGN6"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>The next Cambridge Geek Night is confirmed for\r\n  <span class=`date`>Monday 13th December</span>, once again at the\r\n  <a href=`http://www.cus.org`>Cambridge Union</a> from 7 o'clock,\r\n  with talks from <a href=`http://www.brunton-spall.co.uk/`>Michael Bruton-Spall</a>\r\n  and Artur Ortega\r\n  starting at 7:30.\r\n  Further details <a href=`http://cambridgegeeknights.wordpress.com/2010/12/07/cgn-7/`>\r\n    on our blog</a>.\r\n</p>\r\n ", 
+            "timestamp": "2010-12-08 12:03:57", 
+            "event": 7, 
+            "title": "CGN7"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>Happy Monday, hope the weekend was good to you all.</p>\n\n<p>Just a brief reminder that we're meeting on Wednesday for the\nsecond Cambridge Geek Night. This month, the evening is \nsponsored by the kind folks at The Guardian's\n<a href=`http://www.guardian.co.uk/open-platform`>Open Platform</a>.</p>\n\n<p>The speakers are:</p>\n<ul>\n  <li class=`vcard`><span class=`fn`>Richard Boulton</span>:\n    Xapian, the open source search engine</li>\n  <li class=`vcard`><span class=`fn`>Patrick Farrant</span>\n    from <span class=`org`>Taylor Vinters</span> solicitors:\n    Legal aspects of entrepreneurship and protecting creative ideas</li>\n  <li class=`vcard`><span class=`fn`>Michael Brunton-Spall</span>\n    from the <a href=`http://guardian.co.uk` class=`org`>Guardian</a>:\n    The MPs&rsquo; expenses crowdsourcing app and the Guardian API</li>\n</ul>\n\n<p>We're meeting at the Maypole again, so here's \n<a href=`http://maps.google.co.uk/maps?q=CB5+8AF&amp;hl=en&amp;ie=UTF8&amp;z=16`>the\nmap</a> for you lazy ones who won't look for it yourselves:</p>\n\n\n<p>The beer tab will be open from 7pm onwards, so grab a beer and\nhead upstairs, as we have the room reserved for the evening.</p>\n", 
+            "timestamp": "2009-07-29 00:00:00", 
+            "event": 3, 
+            "title": "CGN2"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>The next Cambridge Geek Night is being held on Wednesday 9th September\r\n  at the <a href=`http://maps.google.co.uk/maps?q=20A+Portugal+Place+Cambridge%2C+CB5+8AF%20(The%20Maypole)`>Maypole\r\n  pub</a>, which you may remember from such events as the last two Geek\r\n  Nights. The talks should be kicking off around half seven, but feel free\r\n  to come along a little earlier and help yourself to a <em>free beer</em>\r\n  (courtesy of the lovely people at <a href=`http://guardian.co.uk`>The\r\n  Guardian</a>).</p>\r\n\r\n<h2>Talks, you say?</h2>\r\n\r\n<p>Yup: this time around, we have <a href=`http://neilcrosby.com`>Neil\r\n  Crosby</a> giving a talk on using Yahoo! Pipes to mix, mash and\r\n  otherwise munge your data, and Richard Pope talking about his adventures\r\n  in freeing the postcode.</p>\r\n", 
+            "timestamp": "2009-09-09 00:18:57", 
+            "event": 4, 
+            "title": "Sounds great: when\u2019s the next one?"
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "CGN 8 has now been confirmed for 14th Feb 2011, once again at the Cambridge Union from 7 o'clock. Talks to be confirmed shortly.", 
+            "timestamp": "2011-01-21 14:13:16", 
+            "event": 8, 
+            "title": "CGN8"
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "<p>Cambridge Geek Night 9 will be held at the Cambridge Union from 7 o'clock on Monday 28th March, sponsored by <a href=`http://www.freeagentcentral.com/`>FreeAgent</a>. We'll be confirming speakers soon.</p>\r\n\r\n<p>We're looking for speakers to give five-minute lightning talks: if you're interested, please get in touch at <a href=`mailto:mail@cambridgegeeknights.net`>mail@cambridgegeeknights.net</a>.</p>", 
+            "timestamp": "2011-03-19 19:00:24", 
+            "event": 9, 
+            "title": "CGN9"
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "CGN10 is being held on May 9th, 7pm at the Cambridge Union.", 
+            "timestamp": "2011-05-09 13:06:34", 
+            "event": 10, 
+            "title": "CGN10"
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "geeknights.snippet", 
+        "fields": {
+            "content": "CGN11 will take place on Monday June 13th in our regular venue, the Cambridge Union. Talks start at 7:30pm, join us from 7pm for drinks and socialising.\r\nWe currently have 2 main confirmed talks;\r\n\r\n<ul><li>*In response to David Buxton's talk at CGN10, Michael Brunton-Spall will be extolling App Engine's virtues</li>\r\n<li>*<a href=\"http://www.metalbeetle.com\">David Stark</a> will be speaking about using neural networks for optical character recognition</li>\r\n<li>*There will also be a lightning talk to update all attendees on last month's discussion on the future of Cambridge Geek Nights</li></ul>\r\n\r\nDetails of sponsor and other speakers to follow.\r\n", 
+            "timestamp": "2011-05-25 16:29:42", 
+            "event": 11, 
+            "title": "CGN11"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "segments.textsegment", 
+        "fields": {
+            "text": "# Latest news\r\n\r\n* [CGN18](/event/cgn18) is confirmed for **Tuesday** August 21st. We have Mark Henderson and Julian Huppert MP discussing [The Geek Manifesto](http://geekmanifesto.wordpress.com/) and science/tech engagement in the world of politics.\r\n\r\n* [CGN17](/event/cgn17) is happening on June 25th. Our speakers are Lucy Chambers from the Open Knowledge Foundation talking about the Data Journalism Handbook, and Greg Law from Undo Software, about setting up your own software company. The bar tab is being generously sponsored by [ecm](http://www.ecmselection.co.uk/).\r\n\r\n* We are looking for lightning speakers and sponsors for future events, so give us a shout on Twitter ([@camgeeknights](http://www.twitter.com/camgeeknights)) or [drop us a line](mailto:mail@cambridgegeeknights.net).<br>", 
+            "name": "Latest news", 
+            "slug": "news"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "segments.textsegment", 
+        "fields": {
+            "text": "# What are Cambridge Geek Nights?\r\n\r\nCambridge Geek Nights are get-togethers of geeks from in and around the Cambridge area. We meet up every couple of months, discuss all things tech, have a couple of drinks, and generally geek out of an evening.\r\n\r\nEvents are free to attend, with no need to register, just turn up on the night. We usually also have a drinks sponsor who puts up a bar tab to ensure your first couple of drinks are free!\r\n\r\nThe idea for the event is based directly on the wildly successful [Oxford Geek Nights](http://oxford.geeknights.net), so many thanks for them for letting us <del>shamelessly pilfer</del> <ins>use</ins> the idea.\r\n\r\n## Fantastic! Where can I find out more?\r\n\r\nWell, for a start you can follow @camgeeknights on [Twitter](http://twitter.com/camgeeknights); if you\u2019ve got any particular questions about Cambridge Geek Nights, please [drop us an email](mailto:mail@cambridgegeeknights.net).\r\n\r\nAs if all that weren\u2019t enough, you can also sign up to our mailing list so we can keep you up to date on the latest events. Just pop your email address in the form on the right.", 
+            "name": "About CGN", 
+            "slug": "about-cgn"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "segments.textsegment", 
+        "fields": {
+            "text": "# Mailing list\r\n\r\nWant to know about upcoming events? Sign up to our mailing list.\r\n\r\n<small> <!-- HTML5-style small print: please don't hurt me -->\r\n<em>Legal bit</em>: we&rsquo;ll only use your email address to send out updates\r\nrelated to Cambridge Geek Nights; we won&rsquo;t give out your email address to\r\nanyone; you can unsubscribe at any time using the link in any of our emails.</small>", 
+            "name": "Subscribe", 
+            "slug": "subscribe"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "pages.staticpage", 
+        "fields": {
+            "text": "The [Cambridge Union](http://www.cus.org/) provides our regular venue for Cambridge Geek Nights.\r\n\r\nThe Cambridge Union is ideally situated in the centre of Cambridge within easy reach of city centre car parks (particularly Park Street multi-storey) and close to the bus station.\r\n\r\nThere are full details on how to find the venue on the [Union website](http://www.cus.org/about/where-find-us), including a map and detailed directions for all methods of transport.", 
+            "slug": "cambridge-union-venue-page", 
+            "title": "The Cambridge Union Venue Page"
+        }
+    }
+]
